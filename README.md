@@ -14,3 +14,5 @@ Lecture 3 - Sept. 22 2021 is absent (sorry, I've got some problems with the micr
 Practice 1 - Kimematics - see p. 15 in the Homeworks manual
 
 Practice 2  - Statics - see p. 25 in the Homeworks manual
+
+Practice 3 - Dynamics - see p. 
