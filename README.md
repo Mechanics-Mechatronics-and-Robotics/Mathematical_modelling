@@ -15,4 +15,4 @@ Practice 1 - Kimematics - see p. 15 in the Homeworks manual
 
 Practice 2  - Statics - see p. 25 in the Homeworks manual
 
-Practice 3 - Dynamics - see p. 
+Practice 3 - Dynamics - see p. 28 in the Homeworks manual + https://youtu.be/vhx8gJgUBdM
