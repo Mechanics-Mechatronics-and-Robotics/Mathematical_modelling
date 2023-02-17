@@ -1,5 +1,5 @@
 # Mathematical_modelling
-Class list: https://cloud.mail.ru/public/3UEB/cj8uRZL5x
+Class list: https://docs.google.com/spreadsheets/d/1Vk8lk_5YsvDjr6QpkM2T9iVEt7RkaKH3/edit#gid=306521222
 
 Videos:
 
